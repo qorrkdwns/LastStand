@@ -1,4 +1,4 @@
-# 🧟 Last Stand: TPS Zombie Survival (Unreal Engine 5)
+# 🧟 Last Stand: TPS Zombie Survival (Unreal Engine 5.6.1)
 
 > **"Unreal Engine 5와 C++을 활용한 3인칭 슈팅 디펜스 게임"**<br>
 > 플레이어가 좀비 웨이브를 막아내며 아이템을 통해 성장하고, 최종적으로 보스 몬스터를 처치하는 서바이벌 게임. AI 로직, 전투 시스템, 스킬 해금 구조를 C++ 클래스로 설계 및 구현.
