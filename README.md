@@ -28,7 +28,7 @@ FSM 기반의 좀비 AI와 TPS 슈팅 메커니즘이 적용된 전체 플레이
 
 [![Last Stand Gameplay](http://img.youtube.com/vi/-crFOM1Vho0/0.jpg)](https://youtu.be/-crFOM1Vho0)
 
-> **[영상 설명]** 좀비 웨이브 방어, 보스전, 총기 사격 및 재장전 시스템 시연
+> **[영상 설명]** 좀비 웨이브 방어, 보스전, 총기 사격 및 스킬 시스템 시연
 
 <br>
 
